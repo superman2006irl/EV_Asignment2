@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737777514897",
+    "firebase_url": "https://evassignment2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "evassignment2",
+    "storage_bucket": "evassignment2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737777514897:android:5d58356873defbb4a6c230",
+        "android_client_info": {
+          "package_name": "com.example.ev_asignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737777514897-bpv49e92fvcu9dj2v6u9b5e4nv6rqfo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEOrlJvdKSgDw58nGMQ-Sc2pzcF2W0f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737777514897-bpv49e92fvcu9dj2v6u9b5e4nv6rqfo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
